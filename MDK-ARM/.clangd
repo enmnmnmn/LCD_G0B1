@@ -1,0 +1,6 @@
+CompileFlags:
+    Add:
+        - -ID:\Keil_v5\ARM\ARMCLANG/include
+        - -ID:\Keil_v5\ARM\ARMCLANG/include/libcxx
+    CompilationDatabase: ./build/LCD_G0B1
+    Compiler: D:\Keil_v5\ARM\ARMCLANG\bin\armclang.exe
